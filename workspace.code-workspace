@@ -4,5 +4,7 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"godot_tools.editor_path": "x:\\Steam\\steamapps\\common\\Godot Engine\\godot.windows.opt.tools.64.exe"
+	}
 }
